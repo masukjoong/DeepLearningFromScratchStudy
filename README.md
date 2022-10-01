@@ -11,5 +11,6 @@
 
 ### 프로젝트 일정
 
-- [ ] (2022.09.17) MNIST deep learning implementation
-- [ ] (2022.09.24)
+- [x] (2022.10.01) MNIST deep learning implementation
+- [ ] (2022.10.08) CIFAR-10 Dataset 학습 전략
+  - dataset: https://www.cs.toronto.edu/~kriz/cifar.html
